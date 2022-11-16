@@ -8,7 +8,7 @@
 
 1. 登录该软件
 2. 进入该软件目录，一般在`C:\Users\用户名\AppData\Local\Programs\Fiddler Everywhere`
-3. 将该仓库的`*.dll`移动替换到`resources\app\out\WebServer`目录下
+3. 将该仓库的`所有文件`移动替换到`resources\app\out\WebServer`目录下
 
 恭喜您，大功告成！
 
